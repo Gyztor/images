@@ -2,7 +2,7 @@
 # Environment: ubuntu
 # Minimum Panel Version: 0.7.X
 # ----------------------------------
-FROM        mariadb:10.5
+FROM        mariadb:10.3
 
 LABEL       author="Michael Parker" maintainer="parker@pterodactyl.io"
 
